@@ -21,6 +21,7 @@ It determines the most recently activated Focus mode and writes its name to an o
 
 - Go 1.25.1 or later
 - macOS (this tool is macOS-specific)
+- **Full Disk Access** permission for the `getfocus` binary (required to read Focus database files)
 
 ### Build from source
 
